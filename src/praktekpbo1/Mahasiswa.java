@@ -10,5 +10,13 @@ package praktekpbo1;
  * @author Agam Agler
  */
 public class Mahasiswa {
+    string nama;
+    string NPM;
+    double IPK;
     
+    void cetakinfo(){
+        system.out.println("Nama  :"+nama);
+        system.out.println("NPM   :"+NPM);
+        system.out.println("IPK   :"+IPK);
+    }
 }
