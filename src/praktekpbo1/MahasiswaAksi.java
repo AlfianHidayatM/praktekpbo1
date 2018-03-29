@@ -16,5 +16,7 @@ public class MahasiswaAksi {
         Harry.nama="Harry Potter";
         Harry.NPM="19639999";
         Harry.IPK=4.0;
+        
+        Harry.cetakinfo();
     }
 }
